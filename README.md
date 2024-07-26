@@ -1,8 +1,8 @@
-# ReadySetGo 🌍✈️
+# JetSetGo 🌍✈️
 
 ## Overview
 
-Welcome to ReadySetGo—a dynamic and fully responsive travel website template developed by HexaBits for the SparkTheSummer Hackathon. This template is crafted with HTML and CSS to provide a sleek, modern, and user-friendly interface for showcasing travel destinations, tours, and related services.
+Welcome to JetSetGo—a dynamic and fully responsive travel website template developed by HexaBits for the SparkTheSummer Hackathon. This website is crafted with HTML and CSS to provide a sleek, modern, and user-friendly interface for showcasing travel destinations, tours, and related services.
 
 ## Features ✨
 
@@ -22,7 +22,7 @@ This project is proudly developed by the HexaBits team:
 - **Dhruv Jaradi**
 ## Installation 🚀
 
-To set up ReadySetGo on your local machine, clone the repository with the following command:
+To set up JetSetGo on your local machine, clone the repository with the following command:
 
 ```bash
 git clone https://github.com/codewithsadee/tourly.git
