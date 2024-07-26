@@ -25,4 +25,4 @@ This project is proudly developed by the HexaBits team:
 To set up JetSetGo on your local machine, clone the repository with the following command:
 
 ```bash
-git clone https://github.com/codewithsadee/tourly.git
+git clone https://github.com/JDhruv14/TravelWeb.git
