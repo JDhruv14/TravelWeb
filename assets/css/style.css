@@ -70,6 +70,12 @@
   margin-top: 90px;
 }
 
+.packaged{
+  display: grid;
+  grid-template-columns: 1fr 0.2fr 1fr;
+  justify-content: space-between;
+
+}
 
 *, *::before, *::after {
   margin: 0;
